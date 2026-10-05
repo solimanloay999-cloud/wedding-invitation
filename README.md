@@ -1,4 +1,4 @@
-# Wedding Invitation — Loay & Inas
+# Wedding Invitation — Loay & Enas
 
 A responsive Arabic wedding invitation made with plain HTML, CSS and JavaScript.
 
