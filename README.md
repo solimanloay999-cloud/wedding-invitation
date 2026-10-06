@@ -1,4 +1,4 @@
-# Wedding Invitation — Loay & Inas
+# Wedding Invitation — Loay & Enas
 
 The invitation image supplied by the user is used as the main hero image.
 
