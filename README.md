@@ -31,10 +31,5 @@ Open `script.js` and update `weddingDate` to match the final date/time.
 6. Save.
 7. GitHub will give you your public invitation link.
 
-## Hero photo
-
-Put your desired cover image at:
-
-`images/hero.jpg`
 
 Recommended: vertical image, around 1080 × 1350 or larger.
